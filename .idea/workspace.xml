@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Technology_Store:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e30f7f3f-8231-4c74-b3f2-df035f219fea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Customer management_files/.idea/Customer management_files.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE2/DemoLT/DemoLT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE2/ex_Test_Java/.idea/ex_Test_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/controller/rest/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/controller/rest/ProductRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/model/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/model/dto/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/validates/ValidationStepOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/validates/ValidationStepTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/left_side.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/left_side.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HtmlBT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/java/com/example/thuchanhmodule3/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/java/com/example/thuchanhmodule3/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/java/com/example/thuchanhmodule3/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case-study-4-tech-shop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../case_of_tung-master/quan_ly_quan_cf_md4/.idea/quan_ly_quan_cf_md4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../han-g/case-study-4-tech-shop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hl-tech/Technology_Store/.idea/Technology_Store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ket-thuc-cac-module/KetThucModule2/KetThucModule2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mac-lenin/PharmacyOnline3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nodejs-megafarm-dashboard-24-10/nodejs-magafarm-dashboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spb_cart_aMinh/spb-order-cart-item.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/truongtq_pk01404_java3_asm/truongtq_pk01404_java3_asm.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/README.md" beforeDir="false" afterPath="$USER_HOME$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C0ZzaF6UdVew1REVXXXmIi5gb9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/prom1/Desktop/CODEGYM/other-project/shop-quan-ly-ban-hang-thiet-bi-dien-tu-tt-store-md4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "2e1e3c906c1f430dc4f89feb396a79c8"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\webapp\assets\js" />
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\webapp\assets\js\app" />
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\java\com\cg\model\dto" />
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\java\com\cg\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hoclaptrinh\Module4\Code\CaseStudy\Technology_Store\src\main\webapp\assets\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cg.model" />
+      <recent name="com.cg.service" />
+      <recent name="com.cg.controller.rest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Technology_Store:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="e72241e1-1b69-45e6-b99f-681a49d3810a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49226" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Technology_Store:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e30f7f3f-8231-4c74-b3f2-df035f219fea" name="Changes" comment="" />
+      <created>1657941750431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657941750431</updated>
+      <workItem from="1657941751933" duration="10016000" />
+      <workItem from="1657973246735" duration="327000" />
+      <workItem from="1657986116591" duration="6390000" />
+      <workItem from="1658065832728" duration="1075000" />
+      <workItem from="1658068419170" duration="2375000" />
+      <workItem from="1658071142809" duration="7128000" />
+      <workItem from="1658106600044" duration="6317000" />
+      <workItem from="1658114688741" duration="18753000" />
+      <workItem from="1658155929634" duration="5940000" />
+      <workItem from="1658194864134" duration="21147000" />
+      <workItem from="1658279233458" duration="4770000" />
+      <workItem from="1658302924823" duration="613000" />
+      <workItem from="1658303988733" duration="7849000" />
+      <workItem from="1658369187698" duration="22355000" />
+      <workItem from="1658418704588" duration="1015000" />
+      <workItem from="1662427929048" duration="121000" />
+      <workItem from="1662429939858" duration="4168000" />
+      <workItem from="1662434481572" duration="1383000" />
+      <workItem from="1662470527024" duration="12825000" />
+      <workItem from="1662685810413" duration="599000" />
+      <workItem from="1664166521847" duration="1681000" />
+      <workItem from="1664419333633" duration="2430000" />
+      <workItem from="1664936102521" duration="18000" />
+      <workItem from="1668509019131" duration="193000" />
+      <workItem from="1668509531527" duration="393000" />
+      <workItem from="1668525406676" duration="1748000" />
+      <workItem from="1670491633518" duration="219000" />
+      <workItem from="1670492556132" duration="391000" />
+      <workItem from="1670493449856" duration="4000" />
+      <workItem from="1671353572701" duration="2047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
