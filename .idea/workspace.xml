@@ -13,20 +13,9 @@
       <change beforePath="$PROJECT_DIR$/../../Customer management_files/.idea/Customer management_files.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MODULE2/DemoLT/DemoLT.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MODULE2/ex_Test_Java/.idea/ex_Test_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Technology_Store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Technology_Store.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/controller/rest/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/controller/rest/ProductRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/model/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/model/dto/ProductDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cg/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/validates/ValidationStepOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cg/validates/ValidationStepTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/left_side.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/left_side.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/layout/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Technology_Store-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Technology_Store-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../HtmlBT/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Thuchanhmodule3/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
@@ -106,8 +95,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/prom1/Desktop/CODEGYM/other-project/shop-quan-ly-ban-hang-thiet-bi-dien-tu-tt-store-md4",
+    "last_opened_file_path": "/Users/prom1/Desktop/CODEGYM/other-project/Spring-mvc-TT-Store-Technology-manager",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -264,6 +255,7 @@
       <workItem from="1670492556132" duration="391000" />
       <workItem from="1670493449856" duration="4000" />
       <workItem from="1671353572701" duration="2047000" />
+      <workItem from="1672026836273" duration="692000" />
     </task>
     <servers />
   </component>
